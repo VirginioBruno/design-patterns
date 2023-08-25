@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{7767C850-4514-4D55-8EC3-011F2D6B6347}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "design.patterns.console", "src\design.patterns.console\design.patterns.console.csproj", "{19483DA7-8477-4279-9B02-090F44565AD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19483DA7-8477-4279-9B02-090F44565AD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19483DA7-8477-4279-9B02-090F44565AD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19483DA7-8477-4279-9B02-090F44565AD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19483DA7-8477-4279-9B02-090F44565AD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{19483DA7-8477-4279-9B02-090F44565AD8} = {7767C850-4514-4D55-8EC3-011F2D6B6347}
+	EndGlobalSection
+EndGlobal
